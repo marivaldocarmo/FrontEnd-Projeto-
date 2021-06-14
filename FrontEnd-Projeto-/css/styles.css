@@ -1,0 +1,59 @@
+body{
+    background-image: linear-gradient(#2a20b4, rgb(105, 104, 180)); 
+    font-family: 'Open Sans', sans-serif; /*Google fontes.css*/
+    margin-right: 84;
+}
+
+h6{
+    margin-right: 2.33em;
+    color: rgb(12, 62, 214);
+    background-color: slateblue;
+    display: inline;         /*Block*/
+    font-size: 15px;    /*sobescrever (h6. id e class)*/
+   /*margin-left: 10%;*/
+   
+}
+
+h1{
+    font-size: 15;
+    width: 120px;
+    background-color: rgb(161, 161, 216);
+    width: 120px;
+    height: 130px;
+}
+
+.Metodologia{
+
+    font-family: Arial, sans-serif;
+    font-size: 60px;
+    color: red;
+    text-decoration: teal;
+    
+}
+
+
+.Presente{
+    color: green;
+    
+}
+
+h2#Educação{
+    color: orange;
+    margin-left: 10%;
+}
+
+#Educativo ul li{
+    color: blue;
+    font-weight: bold;
+}
+
+p{
+    line-height: 12px;
+}
+
+div {
+    background-color: blue;
+    width: 120px;
+    height: 130px;
+    
+}
